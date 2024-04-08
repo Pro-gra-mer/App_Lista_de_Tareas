@@ -1,4 +1,7 @@
 # React + Vite
+Aplicación de tareas en la que podemos agregar, eliminar tareas y marcar las completadas. 
+También le he añadido la persistencia de datos en localStorage.
+Pruébala en netlify: https://supertareas.netlify.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
